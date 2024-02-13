@@ -1,4 +1,4 @@
-# nanopang-eslint-plugin
+# @nanopang/eslint-plugin
 
 A custom ESLint plugin to sync the Typeorm, NestJs Graphql and NestJs Query decorators nullable with the TypeScript type.
 
@@ -7,7 +7,11 @@ A custom ESLint plugin to sync the Typeorm, NestJs Graphql and NestJs Query deco
 You can install the plugin using npm:
 
 ```bash
-npm install nanopang-eslint-plugin --save-dev
+npm install @nanopang/eslint-plugin --save-dev
+```
+or
+```bash
+yarn add @nanopang/eslint-plugin --dev
 ```
 
 ## Usage

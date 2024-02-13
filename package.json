@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "nanopang",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0"
